@@ -1,0 +1,1012 @@
+[
+  {
+    "question_id": "57267a94f1498d1400e8e124",
+    "question": "What type of surnames is their a strong presence of?",
+    "gold_answers": [
+      "Border Reiver",
+      "Border Reiver",
+      "Border Reiver surnames"
+    ],
+    "gold_passage_id": 956
+  },
+  {
+    "question_id": "573314e3d058e614000b56f3",
+    "question": "King Sigimund's Column is an example of what kind of attraction in Warsaw?",
+    "gold_answers": [
+      "architectural",
+      "architectural",
+      "architectural"
+    ],
+    "gold_passage_id": 74
+  },
+  {
+    "question_id": "56bf2afe3aeaaa14008c9543",
+    "question": "What year did the league begin having schedules with 16 games in them?",
+    "gold_answers": [
+      "1978",
+      "1978",
+      "1978"
+    ],
+    "gold_passage_id": 9
+  },
+  {
+    "question_id": "56f811bdaef2371900625da0",
+    "question": "What did Pope Leo X launch against Luther?",
+    "gold_answers": [
+      "papal theologians and envoys",
+      "papal theologians and envoys",
+      "papal theologians and envoys"
+    ],
+    "gold_passage_id": 368
+  },
+  {
+    "question_id": "56e763e800c9c71400d77089",
+    "question": "What might cause a higher student interest in learning the presented subject?",
+    "gold_answers": [
+      "Teacher enthusiasm",
+      "excitement",
+      "Teacher enthusiasm"
+    ],
+    "gold_passage_id": 315
+  },
+  {
+    "question_id": "56e1e9dfe3433e14004231fc",
+    "question": "What is the problem attributed to defining if two finite graphs are isomorphic?",
+    "gold_answers": [
+      "The graph isomorphism problem",
+      "graph isomorphism",
+      "The graph isomorphism problem"
+    ],
+    "gold_passage_id": 276
+  },
+  {
+    "question_id": "56de48f34396321400ee2770",
+    "question": "When did the Venetians take total control of Cyprus?",
+    "gold_answers": [
+      "1489",
+      "1489",
+      "1489"
+    ],
+    "gold_passage_id": 136
+  },
+  {
+    "question_id": "57339902d058e614000b5e74",
+    "question": "How much area does the University Library garden cover?",
+    "gold_answers": [
+      "10,000 m2",
+      "more than 10,000 m2",
+      "10,000 m2"
+    ],
+    "gold_passage_id": 59
+  },
+  {
+    "question_id": "572a064a3f37b31900478660",
+    "question": "The Peruvian Amazon indigienous people are one group struggling in the Amazon, what is another group?",
+    "gold_answers": [
+      "Urarina",
+      "Urarina",
+      "Urarina"
+    ],
+    "gold_passage_id": 801
+  },
+  {
+    "question_id": "56d9c660dc89441400fdb7e8",
+    "question": "Who sacked Newton a few plays after the challenge?",
+    "gold_answers": [
+      "Von Miller",
+      "Von Miller",
+      "Miller"
+    ],
+    "gold_passage_id": 46
+  },
+  {
+    "question_id": "572629c6271a42140099d6a5",
+    "question": "What did Davies want to build ",
+    "gold_answers": [
+      "proposed to build a nationwide network in the UK",
+      "a nationwide network",
+      "nationwide network"
+    ],
+    "gold_passage_id": 869
+  },
+  {
+    "question_id": "5711658e50c2381900b54ad8",
+    "question": "Other than warships, what ships typically required high speeds?",
+    "gold_answers": [
+      "ocean liners",
+      "ocean liners",
+      "ocean liners"
+    ],
+    "gold_passage_id": 617
+  },
+  {
+    "question_id": "56d6f4030d65d2140019829a",
+    "question": "When John Fox left as head coach for the Broncos, who replaced him?",
+    "gold_answers": [
+      "Gary Kubiak",
+      "Gary Kubiak",
+      "Kubiak"
+    ],
+    "gold_passage_id": 12
+  },
+  {
+    "question_id": "56d6f3500d65d21400198293",
+    "question": "How many forced fumbles did Thomas Davis have?",
+    "gold_answers": [
+      "four",
+      "5½",
+      "four"
+    ],
+    "gold_passage_id": 11
+  },
+  {
+    "question_id": "56beca913aeaaa14008c946e",
+    "question": "Who fumbled the ball on 3rd-and-9?",
+    "gold_answers": [
+      "Newton",
+      "Newton",
+      "Newton"
+    ],
+    "gold_passage_id": 51
+  },
+  {
+    "question_id": "56e1c720e3433e140042316a",
+    "question": "What is an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?",
+    "gold_answers": [
+      "computation time",
+      "computation time",
+      "computation time"
+    ],
+    "gold_passage_id": 267
+  },
+  {
+    "question_id": "56e74e4800c9c71400d76f77",
+    "question": "Why would a teacher's college exist?",
+    "gold_answers": [
+      "to serve and protect the public interest",
+      "serve and protect the public",
+      "to serve and protect the public interest"
+    ],
+    "gold_passage_id": 294
+  },
+  {
+    "question_id": "5726926a5951b619008f770b",
+    "question": "Who found that a culture had developed where few Commissioners had any sense of responsibility?",
+    "gold_answers": [
+      "a Committee of Independent Experts",
+      "a Committee of Independent Experts",
+      "Committee of Independent Experts",
+      "Committee of Independent Experts"
+    ],
+    "gold_passage_id": 751
+  },
+  {
+    "question_id": "572648ed5951b619008f6f06",
+    "question": "Where was the disease spreading between 1348 and 1350?",
+    "gold_answers": [
+      "Germany and Scandinavia",
+      "Germany and Scandinavia",
+      "Germany and Scandinavia"
+    ],
+    "gold_passage_id": 891
+  },
+  {
+    "question_id": "56beb3a03aeaaa14008c9248",
+    "question": "How many total touchdowns did Cam Newton score?",
+    "gold_answers": [
+      "45",
+      "45",
+      "45"
+    ],
+    "gold_passage_id": 10
+  },
+  {
+    "question_id": "572658daf1498d1400e8dcaf",
+    "question": "How many types of movements do euplokamis tentilla have?",
+    "gold_answers": [
+      "three types of movement",
+      "three",
+      "three"
+    ],
+    "gold_passage_id": 820
+  },
+  {
+    "question_id": "56e11f05e3433e1400422c30",
+    "question": "What was Tesla likely to do with his work?",
+    "gold_answers": [
+      "seclude himself",
+      "seclude himself",
+      "seclude himself with his work"
+    ],
+    "gold_passage_id": 225
+  },
+  {
+    "question_id": "572689385951b619008f761d",
+    "question": "What Queen opened the first covered railway station in the world?",
+    "gold_answers": [
+      "Victoria",
+      "Victoria",
+      "Queen Victoria"
+    ],
+    "gold_passage_id": 973
+  },
+  {
+    "question_id": "572a064a3f37b3190047865d",
+    "question": "What kind of territories are being destroyed by ecocide in the Amazon?",
+    "gold_answers": [
+      "indigenous territories",
+      "indigenous",
+      "indigenous"
+    ],
+    "gold_passage_id": 801
+  },
+  {
+    "question_id": "5711628a2419e314009555e1",
+    "question": "How much less steam did the Corliss engine use compared to the Watt engine?",
+    "gold_answers": [
+      "30%",
+      "30% less steam",
+      "30%"
+    ],
+    "gold_passage_id": 613
+  },
+  {
+    "question_id": "56e1cbe2cd28a01900c67bad",
+    "question": "What equates to a squared integer according to polynomial time reduction?",
+    "gold_answers": [
+      "multiplying two integers",
+      "multiplying two integers",
+      "multiplying two integers"
+    ],
+    "gold_passage_id": 270
+  },
+  {
+    "question_id": "571cd703dd7acb1400e4c185",
+    "question": "What does oxygen cause to form on metals?",
+    "gold_answers": [
+      "oxide",
+      "a thin film of oxide",
+      "a thin film of oxide",
+      "oxide",
+      "a thin film of oxide"
+    ],
+    "gold_passage_id": 655
+  },
+  {
+    "question_id": "5726249538643c19005ad07f",
+    "question": "What did Baran develop during research at RAND ",
+    "gold_answers": [
+      "the concept of distributed adaptive message block switching",
+      "the concept of distributed adaptive message block switching",
+      "concept of distributed adaptive message block switching"
+    ],
+    "gold_passage_id": 868
+  },
+  {
+    "question_id": "56f82549a6d7ea1400e17416",
+    "question": "What was the style of Luther's salute at the end of his speech?",
+    "gold_answers": [
+      "knight winning a bout",
+      "a knight winning a bout",
+      "traditional salute of a knight winning a bout"
+    ],
+    "gold_passage_id": 373
+  },
+  {
+    "question_id": "56d98a59dc89441400fdb52b",
+    "question": "Who did the Panthers beat to become the NFC champs?",
+    "gold_answers": [
+      "Arizona Cardinals",
+      "the Arizona Cardinals",
+      "Arizona Cardinals"
+    ],
+    "gold_passage_id": 1
+  },
+  {
+    "question_id": "56e0d6367aa994140058e773",
+    "question": "How much did Tesla say Edison offered him to redesign his motor and generators?",
+    "gold_answers": [
+      "fifty thousand dollars",
+      "fifty thousand dollars",
+      "fifty thousand dollars"
+    ],
+    "gold_passage_id": 163
+  },
+  {
+    "question_id": "571166352419e314009555f5",
+    "question": "Where were non-condensing direct-drive locomotives notably used for fast passenger trains?",
+    "gold_answers": [
+      "Britain",
+      "Britain",
+      "Britain"
+    ],
+    "gold_passage_id": 618
+  },
+  {
+    "question_id": "5706143575f01819005e7951",
+    "question": "The Los Angeles Clippers are a team belonging to which sport?",
+    "gold_answers": [
+      "NBA",
+      "NBA",
+      "NBA"
+    ],
+    "gold_passage_id": 479
+  },
+  {
+    "question_id": "56f82454a6d7ea1400e173ff",
+    "question": "How did Luther respond after being asked if the books were his?",
+    "gold_answers": [
+      "confirmed",
+      "confirmed",
+      "confirmed"
+    ],
+    "gold_passage_id": 372
+  },
+  {
+    "question_id": "56e0cd33231d4119001ac3bf",
+    "question": "Why did the police bring Tesla back to Gospic?",
+    "gold_answers": [
+      "for not having a residence permit.",
+      "for not having a residence permit",
+      "not having a residence permit"
+    ],
+    "gold_passage_id": 159
+  },
+  {
+    "question_id": "56e1ba41cd28a01900c67ae0",
+    "question": "What provides a solution to a list of integers provided as input that ned to be sorted?",
+    "gold_answers": [
+      "deterministic sorting algorithm quicksort",
+      "quicksort",
+      "the deterministic sorting algorithm quicksort"
+    ],
+    "gold_passage_id": 260
+  },
+  {
+    "question_id": "57060df252bb891400689820",
+    "question": "The Sand Bernardino - Riverside area maintains what kind of district?",
+    "gold_answers": [
+      "business",
+      "business districts",
+      "business"
+    ],
+    "gold_passage_id": 472
+  },
+  {
+    "question_id": "57339902d058e614000b5e72",
+    "question": "What profession does Zbigniew Badowski have?",
+    "gold_answers": [
+      "architects",
+      "architects",
+      "architects"
+    ],
+    "gold_passage_id": 59
+  },
+  {
+    "question_id": "56d7261e0d65d214001983e1",
+    "question": "Who knocked the ball out of Manning's hands on the next play?",
+    "gold_answers": [
+      "Ealy",
+      "Ealy",
+      "Ealy"
+    ],
+    "gold_passage_id": 50
+  },
+  {
+    "question_id": "571090abb654c5140001f997",
+    "question": "What social construct did Huguenot refugees in Canterbury practice?",
+    "gold_answers": [
+      "economic separation",
+      "economic separation",
+      "worked as weavers"
+    ],
+    "gold_passage_id": 545
+  },
+  {
+    "question_id": "56d9ccacdc89441400fdb843",
+    "question": "What is th elast name of the player who was the Super Bowl 50 winner's leading rusher?",
+    "gold_answers": [
+      "Anderson",
+      "Anderson",
+      "Anderson"
+    ],
+    "gold_passage_id": 52
+  },
+  {
+    "question_id": "570d2af0fed7b91900d45c96",
+    "question": "What city is the capital of Victoria?",
+    "gold_answers": [
+      "Melbourne",
+      "Melbourne",
+      "Melbourne"
+    ],
+    "gold_passage_id": 510
+  },
+  {
+    "question_id": "57094b4f9928a814004714fa",
+    "question": "What was Sky Travel later rebranded as?",
+    "gold_answers": [
+      "Pick TV",
+      "Pick TV",
+      "Pick TV"
+    ],
+    "gold_passage_id": 485
+  },
+  {
+    "question_id": "57264b3edd62a815002e80ad",
+    "question": "What is the bad air theory officially known as?",
+    "gold_answers": [
+      "Miasma theory",
+      "Miasma theory.",
+      "Miasma theory"
+    ],
+    "gold_passage_id": 894
+  },
+  {
+    "question_id": "56f7e9caaef2371900625c57",
+    "question": "How did Luther describe the University of Erfurt?",
+    "gold_answers": [
+      "beerhouse and whorehouse",
+      "beerhouse and whorehouse",
+      "beerhouse and whorehouse"
+    ],
+    "gold_passage_id": 350
+  },
+  {
+    "question_id": "56bf3fd53aeaaa14008c9595",
+    "question": "How many teams has Manning played for that reached the Super Bowl, while he was on their team?",
+    "gold_answers": [
+      "two",
+      "two",
+      "two",
+      "two"
+    ],
+    "gold_passage_id": 18
+  },
+  {
+    "question_id": "572649d8f1498d1400e8db37",
+    "question": "What caused UK to have an oil crisis in its own country?",
+    "gold_answers": [
+      "a series of strikes",
+      "a series of strikes by coal miners and railroad workers",
+      "a series of strikes by coal miners and railroad workers",
+      "strikes by coal miners and railroad workers",
+      "a series of strikes"
+    ],
+    "gold_passage_id": 673
+  },
+  {
+    "question_id": "5729eb34af94a219006aa6cc",
+    "question": "In 1500 AD how many people were believed to have lived in the Amazon region?",
+    "gold_answers": [
+      "5 million people",
+      "5 million",
+      "Some 5 million"
+    ],
+    "gold_passage_id": 790
+  },
+  {
+    "question_id": "57338160d058e614000b5bf9",
+    "question": "Who in Warsaw has the power of legislative action?",
+    "gold_answers": [
+      "Warsaw City Council",
+      "Warsaw City Council",
+      "Warsaw City Council"
+    ],
+    "gold_passage_id": 97
+  },
+  {
+    "question_id": "57108d69b654c5140001f983",
+    "question": "What country initially received the largest number of Huguenot refugees?",
+    "gold_answers": [
+      "the Dutch Republic",
+      "Dutch Republic",
+      "Dutch Republic"
+    ],
+    "gold_passage_id": 543
+  },
+  {
+    "question_id": "56bec5ff3aeaaa14008c93e3",
+    "question": "What BBC radio station will carry the game in the United Kingdom?",
+    "gold_answers": [
+      "BBC Radio 5",
+      "Radio 5 Live",
+      "BBC Radio 5 Live"
+    ],
+    "gold_passage_id": 41
+  },
+  {
+    "question_id": "5725c57a89a1e219009abe62",
+    "question": "What causes the population of ctenophora to grow at an explosive rate?",
+    "gold_answers": [
+      "hermaphroditism and early reproduction",
+      "hermaphroditism and early reproduction",
+      "combination of hermaphroditism and early reproduction"
+    ],
+    "gold_passage_id": 808
+  },
+  {
+    "question_id": "56f86966aef2371900626054",
+    "question": "What work is useful for pastors?",
+    "gold_answers": [
+      "Larger Catechism",
+      "Larger Catechism",
+      "Larger Catechism"
+    ],
+    "gold_passage_id": 398
+  },
+  {
+    "question_id": "5726660d5951b619008f71b3",
+    "question": "What was the estimated population of Pons Aelius around the 2nd century?",
+    "gold_answers": [
+      "2,000",
+      "2,000",
+      "2,000"
+    ],
+    "gold_passage_id": 938
+  },
+  {
+    "question_id": "57266e72f1498d1400e8df8e",
+    "question": "What type of ratios are used in geochronologic and thermochronologic studies?",
+    "gold_answers": [
+      "isotope ratios of radioactive elements",
+      "isotope",
+      "isotope",
+      "isotope"
+    ],
+    "gold_passage_id": 920
+  },
+  {
+    "question_id": "570d32e4fed7b91900d45d01",
+    "question": "What are public schools in Victoria?",
+    "gold_answers": [
+      "state or government",
+      "state or government schools",
+      "state or government schools"
+    ],
+    "gold_passage_id": 515
+  },
+  {
+    "question_id": "5725e45689a1e219009ac04c",
+    "question": "Which district in Fresno is known as the center for the heavy metal community?",
+    "gold_answers": [
+      "Tower District",
+      "Tower District",
+      "Tower District"
+    ],
+    "gold_passage_id": 848
+  },
+  {
+    "question_id": "56e11161e3433e1400422b86",
+    "question": "What happened to Tesla's belongings?",
+    "gold_answers": [
+      "FBI ordered the Alien Property Custodian to seize Tesla's belongings",
+      "the FBI ordered the Alien Property Custodian to seize Tesla's belongings",
+      "Alien Property Custodian"
+    ],
+    "gold_passage_id": 213
+  },
+  {
+    "question_id": "56bf6e7a3aeaaa14008c9621",
+    "question": "Which smartphone customers were the only people who could stream the game on their phones?",
+    "gold_answers": [
+      "Verizon Wireless customers",
+      "Verizon",
+      "Verizon"
+    ],
+    "gold_passage_id": 34
+  },
+  {
+    "question_id": "56d9a199dc89441400fdb647",
+    "question": "What year did Newton hold the number one draft pick position?",
+    "gold_answers": [
+      "2011.",
+      "2011",
+      "2011"
+    ],
+    "gold_passage_id": 19
+  },
+  {
+    "question_id": "572685cd5951b619008f7575",
+    "question": "What was the museum originally called?",
+    "gold_answers": [
+      "Museum of Manufactures",
+      "Museum of Manufactures",
+      "Museum of Manufactures"
+    ],
+    "gold_passage_id": 991
+  },
+  {
+    "question_id": "56e202e9e3433e1400423243",
+    "question": "What complex measurements were defined by \"On the Computational Complexity of Algorithms\"?",
+    "gold_answers": [
+      "time and space",
+      "definitions of time and space complexity",
+      "time and space complexity"
+    ],
+    "gold_passage_id": 284
+  },
+  {
+    "question_id": "56f8599aa6d7ea1400e175af",
+    "question": "In organizing a new church, what did Luther find to be unworkable for congregations?",
+    "gold_answers": [
+      "choosing their own ministers",
+      "choosing their own ministers",
+      "confessional church based on personal faith and experience and a territorial church including all in a given locality"
+    ],
+    "gold_passage_id": 392
+  },
+  {
+    "question_id": "56bec6573aeaaa14008c93ec",
+    "question": "In what year did Harvey Martin die?",
+    "gold_answers": [
+      "2001",
+      "2001",
+      "2001"
+    ],
+    "gold_passage_id": 42
+  },
+  {
+    "question_id": "56e74e4800c9c71400d76f79",
+    "question": "Who is taught at teacher's colleges?",
+    "gold_answers": [
+      "teachers",
+      "teachers",
+      "the teaching profession"
+    ],
+    "gold_passage_id": 294
+  },
+  {
+    "question_id": "57337ea24776f41900660bd2",
+    "question": "What percentage of the population of Warsaw was Jewish in 1897?",
+    "gold_answers": [
+      "around 34%",
+      "34",
+      "34%"
+    ],
+    "gold_passage_id": 57
+  },
+  {
+    "question_id": "571090abb654c5140001f998",
+    "question": "What other English towns were sites of Huguenot settlement?",
+    "gold_answers": [
+      "Kent, particularly Sandwich, Faversham and Maidstone",
+      "Sandwich, Faversham and Maidstone",
+      "Sandwich, Faversham and Maidstone"
+    ],
+    "gold_passage_id": 545
+  },
+  {
+    "question_id": "56f82549a6d7ea1400e17415",
+    "question": "What did Luther do at the end of his speech?",
+    "gold_answers": [
+      "raised his arm",
+      "raised his arm",
+      "raised his arm"
+    ],
+    "gold_passage_id": 373
+  },
+  {
+    "question_id": "571ce6655efbb31900334e38",
+    "question": "What percentage of oxygen is usually supplied by a medical mask?",
+    "gold_answers": [
+      "30%–50%",
+      "30%–50%",
+      "30%–50%",
+      "30%–50%"
+    ],
+    "gold_passage_id": 662
+  },
+  {
+    "question_id": "57267383dd62a815002e8553",
+    "question": "What kind of influence does the Gulf Stream exert on Newcastle?",
+    "gold_answers": [
+      "warming",
+      "warming",
+      "warming influence"
+    ],
+    "gold_passage_id": 950
+  },
+  {
+    "question_id": "570d418dfed7b91900d45dbe",
+    "question": "How many seats does Victoria have in the Senate?",
+    "gold_answers": [
+      "12",
+      "12",
+      "12"
+    ],
+    "gold_passage_id": 520
+  },
+  {
+    "question_id": "56e0d810231d4119001ac433",
+    "question": "What was Brown's job?",
+    "gold_answers": [
+      "Western Union superintendent",
+      "Western Union superintendent",
+      "Western Union superintendent"
+    ],
+    "gold_passage_id": 166
+  },
+  {
+    "question_id": "570d529fb3d812140066d6bc",
+    "question": "Besides cultural events, what other tourist attraction does Victoria have?",
+    "gold_answers": [
+      "sports",
+      "sports tourism",
+      "sports"
+    ],
+    "gold_passage_id": 529
+  },
+  {
+    "question_id": "57097d63ed30961900e841ff",
+    "question": "What company agreed to terminate high court proceedings with Virgin Media?",
+    "gold_answers": [
+      "BSkyB",
+      "BSkyB",
+      "BSkyB"
+    ],
+    "gold_passage_id": 504
+  },
+  {
+    "question_id": "56e19724cd28a01900c679f9",
+    "question": "In addition to the traveling salesman problem, what is another example of a function problem?",
+    "gold_answers": [
+      "the integer factorization problem",
+      "integer factorization",
+      "integer factorization problem"
+    ],
+    "gold_passage_id": 248
+  },
+  {
+    "question_id": "56f7f15aa6d7ea1400e172ed",
+    "question": "When was Luther  called by von Staupitz to Wittenberg?",
+    "gold_answers": [
+      "1508",
+      "1508",
+      "1508"
+    ],
+    "gold_passage_id": 354
+  },
+  {
+    "question_id": "57268731f1498d1400e8e2e4",
+    "question": "What genre of film was the 1988 film Stormy Monday?",
+    "gold_answers": [
+      "gangster",
+      "noir thriller",
+      "gangster film,"
+    ],
+    "gold_passage_id": 970
+  },
+  {
+    "question_id": "56bec3153aeaaa14008c938a",
+    "question": "What beverage company signed a contract allowing them to broadcast ads at a discount?",
+    "gold_answers": [
+      "Anheuser-Busch InBev",
+      "Anheuser-Busch InBev",
+      "Anheuser-Busch InBev"
+    ],
+    "gold_passage_id": 36
+  },
+  {
+    "question_id": "5726534d708984140094c26d",
+    "question": "What does Graham Twigg propose about the spread of disease?",
+    "gold_answers": [
+      "a form of anthrax",
+      "was a form of anthrax",
+      "the cause was a form of anthrax"
+    ],
+    "gold_passage_id": 904
+  },
+  {
+    "question_id": "572671e55951b619008f72d7",
+    "question": "What earlier market did the Grainger Market replace?",
+    "gold_answers": [
+      "the Butcher Market",
+      "the Butcher Market",
+      "the Butcher Market"
+    ],
+    "gold_passage_id": 949
+  },
+  {
+    "question_id": "56e0ef0c231d4119001ac463",
+    "question": "How much had Westinghouse paid to Tesla, Brown and Peck?",
+    "gold_answers": [
+      "an estimated $200,000",
+      "estimated $200,000",
+      "an estimated $200,000 in licenses and royalties"
+    ],
+    "gold_passage_id": 174
+  },
+  {
+    "question_id": "5729ea263f37b319004785bd",
+    "question": "A satellite that measured the amount of dust going to the Amazon was named what?",
+    "gold_answers": [
+      "CALIPSO",
+      "CALIPSO",
+      "CALIPSO"
+    ],
+    "gold_passage_id": 789
+  },
+  {
+    "question_id": "56e763e800c9c71400d77088",
+    "question": "What is the term for catching the motivation expressed by the teacher?",
+    "gold_answers": [
+      "emotional contagion",
+      "emotional contagion",
+      "emotional contagion"
+    ],
+    "gold_passage_id": 315
+  },
+  {
+    "question_id": "56dfb6d17aa994140058e055",
+    "question": "What did Tesla's design not need? ",
+    "gold_answers": [
+      "a commutator",
+      "commutator",
+      "a commutator"
+    ],
+    "gold_passage_id": 167
+  },
+  {
+    "question_id": "57265200708984140094c23a",
+    "question": "Who would the occupation alienate?",
+    "gold_answers": [
+      "Arabs and much of the rest of the Third World",
+      "the Arabs and much of the rest of the Third World",
+      "Arabs",
+      "Arabs and much of the rest of the Third World",
+      "the Arabs and much of the rest of the Third World"
+    ],
+    "gold_passage_id": 678
+  },
+  {
+    "question_id": "57108ee6a58dae1900cd6a1d",
+    "question": "By what name were the \"supposedly reformed\" known?",
+    "gold_answers": [
+      "prétendus réformés",
+      "prétendus réformés",
+      "prétendus réformés"
+    ],
+    "gold_passage_id": 544
+  },
+  {
+    "question_id": "56f802c6a6d7ea1400e17379",
+    "question": "What did giving money to the church absolve the giver from?",
+    "gold_answers": [
+      "punishments",
+      "punishments",
+      "all punishments"
+    ],
+    "gold_passage_id": 359
+  },
+  {
+    "question_id": "57267b65dd62a815002e86a7",
+    "question": "Who conquered much of England after the end of Roman imperial rule?",
+    "gold_answers": [
+      "Anglo-Saxon populations",
+      "Anglo-Saxon populations",
+      "the Anglo-Saxon populations"
+    ],
+    "gold_passage_id": 957
+  },
+  {
+    "question_id": "572648e8dd62a815002e8076",
+    "question": "What are the hairs on ctenophores called?",
+    "gold_answers": [
+      "cilia",
+      "cilia",
+      "cilia"
+    ],
+    "gold_passage_id": 813
+  },
+  {
+    "question_id": "56e1c9bfe3433e1400423192",
+    "question": "What concept is frequently used to define complexity classes?",
+    "gold_answers": [
+      "reduction",
+      "a reduction",
+      "reduction"
+    ],
+    "gold_passage_id": 269
+  },
+  {
+    "question_id": "5705eb3375f01819005e7767",
+    "question": "Other than the motion picture and television industry, what other major industry is centered in Los Angeles?",
+    "gold_answers": [
+      "music",
+      "major record companies"
+    ],
+    "gold_passage_id": 450
+  },
+  {
+    "question_id": "56bebcbe3aeaaa14008c9326",
+    "question": "In what city is the Moscone Center located?",
+    "gold_answers": [
+      "San Francisco",
+      "San Francisco",
+      "San Francisco"
+    ],
+    "gold_passage_id": 26
+  },
+  {
+    "question_id": "56e20a3ae3433e140042324e",
+    "question": "How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",
+    "gold_answers": [
+      "21",
+      "21",
+      "21"
+    ],
+    "gold_passage_id": 287
+  },
+  {
+    "question_id": "56d6f4030d65d2140019829c",
+    "question": "What injury did Manning suffer the summer before the season started?",
+    "gold_answers": [
+      "a plantar fasciitis injury",
+      "a plantar fasciitis injury",
+      "plantar fasciitis"
+    ],
+    "gold_passage_id": 12
+  },
+  {
+    "question_id": "56f8c2ee9b226e1400dd0f48",
+    "question": "What other health issues did Luther have?",
+    "gold_answers": [
+      "arthritis, and an ear infection",
+      "arthritis, and an ear infection ruptured an ear drum",
+      "arthritis, and an ear infection ruptured an ear drum. In December 1544, he began to feel the effects of angina."
+    ],
+    "gold_passage_id": 435
+  },
+  {
+    "question_id": "57113be3a58dae1900cd6d28",
+    "question": "Who patented a steam engine in 1781?",
+    "gold_answers": [
+      "James Watt",
+      "James Watt",
+      "James Watt",
+      "James Watt"
+    ],
+    "gold_passage_id": 581
+  },
+  {
+    "question_id": "56f7f2e0aef2371900625cb3",
+    "question": "Where did Luther spend his career?",
+    "gold_answers": [
+      "University of Wittenberg",
+      "University of Wittenberg",
+      "University of Wittenberg."
+    ],
+    "gold_passage_id": 355
+  },
+  {
+    "question_id": "56bf5e7b3aeaaa14008c95fa",
+    "question": "What resolution were the cameras increased to for the game?",
+    "gold_answers": [
+      "5K resolution",
+      "5K",
+      "5K"
+    ],
+    "gold_passage_id": 32
+  },
+  {
+    "question_id": "56e1a564cd28a01900c67a4b",
+    "question": "How is worst-case time complexity written as an expression?",
+    "gold_answers": [
+      "T(n)",
+      "T(n)",
+      "T(n)"
+    ],
+    "gold_passage_id": 251
+  },
+  {
+    "question_id": "57268a37f1498d1400e8e33d",
+    "question": "What is the oncorhynchus also called?",
+    "gold_answers": [
+      "chum salmon",
+      "chum salmon",
+      "chum salmon"
+    ],
+    "gold_passage_id": 831
+  }
+]
