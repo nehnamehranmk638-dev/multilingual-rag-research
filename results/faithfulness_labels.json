@@ -1,0 +1,152 @@
+[
+  {
+    "question_id": "570d2af0fed7b91900d45c96",
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": "56beb3a03aeaaa14008c9248",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "56bec5ff3aeaaa14008c93e3",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "56dfb6d17aa994140058e055",
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": "56de48f34396321400ee2770",
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": "56d9c660dc89441400fdb7e8",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "571ce6655efbb31900334e38",
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": "56d6f4030d65d2140019829a",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "572649d8f1498d1400e8db37",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "56e19724cd28a01900c679f9",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "57339902d058e614000b5e74",
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": "56e74e4800c9c71400d76f79",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "5726249538643c19005ad07f",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "56e763e800c9c71400d77089",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "5711658e50c2381900b54ad8",
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": "570d32e4fed7b91900d45d01",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "5726660d5951b619008f71b3",
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": "572a064a3f37b31900478660",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "56e0d6367aa994140058e773",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "57108ee6a58dae1900cd6a1d",
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": "570d418dfed7b91900d45dbe",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "57266e72f1498d1400e8df8e",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "56e1c9bfe3433e1400423192",
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": "570d529fb3d812140066d6bc",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "56e1c720e3433e140042316a",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "56f82549a6d7ea1400e17416",
+    "faithfulness": "partial",
+    "error_type": "none"
+  },
+  {
+    "question_id": "56bec3153aeaaa14008c938a",
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": "56bf5e7b3aeaaa14008c95fa",
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": "57113be3a58dae1900cd6d28",
+    "faithfulness": "supported",
+    "error_type": null
+  },
+  {
+    "question_id": "5705eb3375f01819005e7767",
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  }
+]
