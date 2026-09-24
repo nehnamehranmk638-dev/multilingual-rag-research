@@ -1,0 +1,16 @@
+stage,method,metric,value
+Retrieval,BM25,Recall@5,0.91
+Retrieval,Dense (E5),Recall@5,0.95
+Retrieval,Hybrid (RRF),Recall@5,0.95
+Retrieval,BM25,MRR,0.845968
+Retrieval,Dense (E5),MRR,0.846111
+Retrieval,Hybrid (RRF),MRR,0.89194
+Generation,Hybrid retrieval,EM,0.61
+Generation,Hybrid retrieval,F1,0.712394
+Generation,Hybrid retrieval,Contains-match,0.76
+Generation,Gold passage (ceiling),EM,0.71
+Generation,Gold passage (ceiling),F1,0.811669
+Faithfulness,Manual (30 sampled),% Supported,56.7
+Faithfulness,Manual (30 sampled),% Not supported,40.0
+Faithfulness,Manual (30 sampled),% Partial,3.3
+Faithfulness,Manual (30 sampled),% Refused,0.0
