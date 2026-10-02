@@ -1,0 +1,23 @@
+retrieval:
+  dense_model: "intfloat/multilingual-e5-base"
+  top_k: 5
+  rrf_k: 60
+
+generation:
+  model: "Qwen/Qwen2.5-1.5B-Instruct"
+  max_new_tokens: 256
+  temperature: 0.0
+  do_sample: false
+
+nli:
+  model: "cross-encoder/nli-deberta-v3-base"
+  entailment_threshold: 0.50
+  contradiction_threshold: 0.50
+
+evaluation:
+  max_claims: 12
+  completeness_threshold: 0.50
+
+language:
+  name: "english"
+  code: "en"

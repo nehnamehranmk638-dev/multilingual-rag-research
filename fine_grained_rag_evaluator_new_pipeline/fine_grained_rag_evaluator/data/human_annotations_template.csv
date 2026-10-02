@@ -1,0 +1,4 @@
+question_id,claim,evidence_id,human_label,human_faithfulness,human_hallucination,human_completeness,notes
+q1,,,,,,,
+q2,,,,,,,
+q3,,,,,,,
