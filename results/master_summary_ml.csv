@@ -1,0 +1,14 @@
+stage,method,metric,value
+Retrieval,BM25,Recall@5,0.82
+Retrieval,Dense (E5),Recall@5,0.9
+Retrieval,Hybrid (RRF),Recall@5,0.91
+Retrieval,BM25,MRR,0.71519
+Retrieval,Dense (E5),MRR,0.756667
+Retrieval,Hybrid (RRF),MRR,0.783179
+Generation,Hybrid retrieval,EM,0.0
+Generation,Hybrid retrieval,F1,0.0
+Generation,Hybrid retrieval,Contains-match,0.0
+Faithfulness,Manual (30 sampled),% Supported,0.0
+Faithfulness,Manual (30 sampled),% Not supported,100.0
+Faithfulness,Manual (30 sampled),% Partial,0.0
+Faithfulness,Manual (30 sampled),% Refused,0.0
