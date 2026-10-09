@@ -1,0 +1,152 @@
+[
+  {
+    "question_id": 1058,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 1321,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 1072,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 1060,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 296,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 92,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 1173,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 640,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 856,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 1473,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 250,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 955,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 988,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 657,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 267,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 789,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 1041,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 1240,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 276,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 1503,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 188,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 615,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 318,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 927,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 77,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 265,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 418,
+    "faithfulness": "not_supported",
+    "error_type": "retrieval_missed"
+  },
+  {
+    "question_id": 738,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 1376,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  },
+  {
+    "question_id": 446,
+    "faithfulness": "not_supported",
+    "error_type": "generator_ignored_context"
+  }
+]
