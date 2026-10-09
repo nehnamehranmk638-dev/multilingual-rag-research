@@ -1,2 +1,2 @@
 run_name,retrieval_method,model_name,em,f1,contains_match,refusals
-hybrid_generation_ml,hybrid,Qwen/Qwen2.5-1.5B-Instruct,0.0,0.0,0.0,0
+hybrid_generation_ml,hybrid,Qwen/Qwen2.5-1.5B-Instruct,0.02,0.057667,0.02,0
