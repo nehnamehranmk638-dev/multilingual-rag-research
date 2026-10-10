@@ -1,3 +1,4 @@
+
 import numpy as np
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from scipy.stats import spearmanr, pearsonr, kendalltau
@@ -30,17 +31,23 @@ def hallucination_rate(verifications):
     )
     return unsupported / len(verifications)
 
-def completeness(answer_claims, reference_claims, nli_model, threshold=0.5):
+def completeness(answer_claims, reference_claims, nli_model=None, threshold=0.5):
     if not reference_claims:
         return None
+    if not answer_claims:
+        return 0.0
+
     covered = 0
+    normalized_answers = {
+        claim.strip().lower().rstrip(".!?")
+        for claim in answer_claims
+    }
+
     for ref in reference_claims:
-        best = 0.0
-        for claim in answer_claims:
-            pred = nli_model.predict(claim, ref)
-            best = max(best, pred["scores"].get("entailment", 0.0))
-        if best >= threshold:
+        normalized_ref = ref.strip().lower().rstrip(".!?")
+        if normalized_ref in normalized_answers:
             covered += 1
+
     return covered / len(reference_claims)
 
 def agreement_report(y_true, y_pred):
