@@ -16,13 +16,13 @@ on the 100-question Malayalam evaluation set (IndicWiki corpus, 247 passages).
 
 ## 2. Generation and Gold-Passage Ceiling
 
-Model: Qwen/Qwen2.5-1.5B-Instruct. Malayalam-language instruction prompt.
+Model: Qwen/Qwen2.5-7B-Instruct. Malayalam-language instruction prompt.
 
 | Condition         | EM     | F1     | Contains-match |
 |-------------------|--------|--------|----------------|
-| Hybrid retrieval  | 0.0000 | 0.0000 | 0.0000       |
+| Hybrid retrieval  | 0.0600 | 0.1312 | 0.1000       |
 
-Refusals: 0 / 100
+Refusals: 56 / 100
 
 ## 3. Manual Faithfulness Evaluation (30 sampled)
 
@@ -43,6 +43,6 @@ Error types: {'generator_ignored_context': 13, 'retrieval_missed': 17}
 | Dense Recall@5  | 0.95    | 0.90      | 5pp  |
 | Hybrid Recall@5 | 0.95    | 0.91      | 4pp  |
 | Hybrid MRR      | 0.892   | 0.783      | 10.9pp  |
-| Generation EM   | 0.61    | 0.00      | 61pp  |
+| Generation EM   | 0.61    | 0.06      | 55pp  |
 | Faithfulness %  | 56.7%   | 0.0%      | -     |
 
